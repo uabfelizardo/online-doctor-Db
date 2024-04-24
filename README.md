@@ -16,5 +16,16 @@ git clone https://github.com/uabfelizardo/online-doctor-Db.git
 mysql -u<username> -p<password>;
 create database onlinedoctordb;
 source  /path/onlinedoctordb.sql;
+------------------------------------------------------------------------------------------------
+Free hosting online details
+
+freesqldatabase.com 
+
+Host: sql8.freesqldatabase.com
+Database name: sql8701730
+Database user: sql8701730
+Database password: 5AuPUXr28q
+Port number: 3306
+-------------------------------------------------------------------------------------------------
 
 
